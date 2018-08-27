@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/lsmolic/snip-grpc-gem
-  revision: bdb48463973f4398e9df12f04adbeeeecfaffb3c
-  tag: master
+  revision: c6f2f40b450cf459b7eb4c3cb2337c40ca8a1eab
+  branch: master
   specs:
     snip (0.1.0)
       grpc
