@@ -1,0 +1,30 @@
+GIT
+  remote: https://github.com/lsmolic/snip-grpc-gem
+  revision: bdb48463973f4398e9df12f04adbeeeecfaffb3c
+  tag: master
+  specs:
+    snip (0.1.0)
+      grpc
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    google-protobuf (3.6.1)
+    googleapis-common-protos-types (1.0.2)
+      google-protobuf (~> 3.0)
+    grpc (1.14.1)
+      google-protobuf (~> 3.1)
+      googleapis-common-protos-types (~> 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  grpc (~> 1.0)
+  snip!
+
+RUBY VERSION
+   ruby 2.3.5p376
+
+BUNDLED WITH
+   1.16.4
